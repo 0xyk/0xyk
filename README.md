@@ -1,6 +1,7 @@
 Hi, I'm Youka, currently a second-year master's student in University of Macau, majoring Data Science – Financial Technology.
-- I'm currently a FinTech evangelist building Web3.
-- I'm also a content creator focusing on the interactive entertainment industry, especially game product research.
+- I'm now preparing myself to be a researcher focusing on Web3, especially GameFi. 
+- I'm an evangelist interested in sharing tutorial materials about data science with specialization in FinTech.
+- I'm also a content creator passionate about the interactive entertainment industry, covering Animation, Comics, Games, and Internet Literature, original and secondary creation.
 ---
 
 About me:
