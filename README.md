@@ -5,7 +5,7 @@ Hi, I'm Youka, currently a second-year master's student in University of Macau, 
 
 About me:
 
-* 
+* [LinkedIn](https://www.linkedin.com/in/jae-youka/)
 
 Also available at:
 
