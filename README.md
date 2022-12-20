@@ -1,4 +1,19 @@
-### Hi there 👋
+Hi, I'm Youka, currently a second-year master's student in University of Macau, majoring Data Science – Financial Technology.
+- I'm currently a FinTech evangelist building Web3.
+- I'm also a content creator focusing on the Interactive Entertainment section of the Internet industry, especially game product research.
+---
+
+About me:
+
+* [LinkedIn](https://www.linkedin.com/in/alex-chi-skyzh/)
+
+Also available at:
+
+* [中文原创小说作品集 / Original Novel (in Chinese)](https://sosadfun.link/users/477250)
+
+
+
+
 
 <!--
 **0xyk/0xyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
