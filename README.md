@@ -4,7 +4,7 @@ Hi, I'm Youka, currently a second-year master's student in University of Macau.
 - I'm also a content creator passionate about the interactive entertainment industry, covering Animation, Comics, Games, and Internet Literature, original and secondary creation.
 ---
 
-Available @
+Available at
 
 * [LinkedIn](https://www.linkedin.com/in/jae-youka/)
 * [Twitter](https://twitter.com/0xyouka)
