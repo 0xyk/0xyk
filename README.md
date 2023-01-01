@@ -11,7 +11,7 @@ Available at
 
 Portfolio to look into
 
-* [中文原创小说 / Original Novel (in Chinese)](https://sosadfun.link/users/477250)
+* [Original Novel (in Chinese)](https://sosadfun.link/users/477250)
 
 
 
