@@ -13,7 +13,7 @@ Portfolio to look into
 
 * Tutorial Materials (Pinned as follows)
 * [Original Novel (in Chinese)](https://sosadfun.link/users/477250)
-* TBC
+* TBC…
 
 
 
