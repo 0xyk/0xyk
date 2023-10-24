@@ -12,13 +12,12 @@ Available at
 Portfolio to look into
 
 * Tutorial Materials (Pinned as follows)
-
+* [Original Novel (in Chinese)](https://sosadfun.link/users/477250)
 
 
 
 
 <!--
-* [Original Novel (in Chinese)](https://sosadfun.link/users/477250)
 * TBC
 **0xyk/0xyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
