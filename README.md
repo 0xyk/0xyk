@@ -1,12 +1,12 @@
-Hi, I'm Youka, currently a third-year master's student in University of Macau.
-- I'm now preparing myself to be a researcher focusing on **Web3**, especially **GameFi**. 
-- I'm an evangelist interested in sharing tutorial materials on **data science with specialization in FinTech**.
-- I'm also a content creator passionate about the **interactive entertainment industry**, covering **ACGN** (Animation, Comic, Game and Novel), original and secondary creation.
+Hi, I'm Youka, currently a Research Staff in University of Macau.
+- I'm now a Researcher passionate about the area of **Humanities and Social Sciences**, focusing on **Communications and Entertainment Industry**, covering **ACGN** (Animation, Comic, Game and Novel), original and secondary creation.
+- I'm an evangelist interested in sharing tutorial materials on **Data Science with Specialization in FinTech**.
+- I'm now BUILDING **Web3**.
 ---
 
 Available at
 
-* [LinkedIn](https://www.linkedin.com/in/jae-youka/)
+* [LinkedIn](https://www.linkedin.com/in/jaeyann/)
 
 
 Portfolio to look into
